@@ -103,4 +103,3 @@
 ## 📬 Contact
 - 📧 Email: your.email@example.com  
 - 💼 LinkedIn: [Manoj Chand Thaquree](www.linkedin.com/in/manoj-chand-5321a4385)  
-- 🌐 Portfolio: [Your Portfolio Link](https://your-portfolio.com)  
