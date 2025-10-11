@@ -101,5 +101,5 @@
 ---
 
 ## 📬 Contact
-- 📧 Email: your.email@example.com  
+- 📧 Email: manojchand3212@gmail.com 
 - 💼 LinkedIn: [Manoj Chand Thaquree](www.linkedin.com/in/manoj-chand-5321a4385)  
